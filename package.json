@@ -1,0 +1,20 @@
+{
+  "name": "easy-bitly",
+  "version": "0.0.0",
+  "description": "Very simple API wrapper for Bitly.shorten endpoint",
+  "main": "bitly.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pukapukan/easy-bitly.git"
+  },
+  "keywords": [
+    "bitly",
+    "shorten"
+  ],
+  "author": "Jason Park",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pukapukan/easy-bitly/issues"
+  },
+  "homepage": "https://github.com/pukapukan/easy-bitly"
+}
