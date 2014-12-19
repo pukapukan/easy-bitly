@@ -1,7 +1,7 @@
 {
   "name": "easy-bitly",
-  "version": "0.0.0",
-  "description": "Very simple API wrapper for Bitly.shorten endpoint",
+  "version": "0.0.1",
+  "description": "Simple API wrapper for Bitly.shorten endpoint",
   "main": "bitly.js",
   "repository": {
     "type": "git",
